@@ -19,6 +19,13 @@ body {
   overflow: hidden;
   perspective: 1000px;
 }
+img {
+  width: 200px;
+  border-radius: 50px;
+  align-items: center;
+}
+
+
 
 .night {
   position: fixed;
